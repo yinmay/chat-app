@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    line-height: 70px;
+    color: rgb(64, 64, 64)!important;
+    font-size: 16px;
+}
+
+.error-msg {
+    color: #f50;
+    padding-left: 10px
+}
+
+h2 {
+    padding-left: 10px;
+}
